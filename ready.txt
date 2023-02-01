@@ -1,0 +1,22 @@
+<div class="filter_items"><p>SNACKS </p><p>.....999</p></div>
+<div class="filter_items"><p>QALB NIRACHATH </p><p>.....999</p></div>
+<div class="filter_items"><p>BANANA FRY </p><p>.....999</p></div>
+<div class="filter_items"><p>MUTTAPPAM </p><p>.....999</p></div>
+<div class="filter_items"><p>EGG PUFF </p><p>.....999</p></div>
+<div class="filter_items"><p>SAMOSA </p><p>.....999</p></div>
+<div class="filter_items"><p>COIN PARIPPUVADA 2PCS </p><p>.....999</p></div>
+<div class="filter_items"><p>MUTTA BHAJJI </p><p>.....999</p></div>
+<div class="filter_items"><p>PAZHAM NIRACHATHU </p><p>.....999</p></div>
+<div class="filter_items"><p>CUTLETS </p><p>.....999</p></div>
+<div class="filter_items"><p>CHICKEN WINGS 6PCS </p><p>.....999</p></div>
+<div class="filter_items"><p>POCKET CHICKEN </p><p>.....999</p></div>
+<div class="filter_items"><p>UNNAKAI </p><p>.....999</p></div>
+<div class="filter_items"><p>MALAI CUTTING CHAI </p><p>.....999</p></div>
+<div class="filter_items"><p>HUB-E-MAKAN </p><p>.....999</p></div>
+<div class="filter_items"><p>COFFEE </p><p>.....999</p></div>
+<div class="filter_items"><p>BLACK COFFEE </p><p>.....999</p></div>
+<div class="filter_items"><p>MOHABATH </p><p>.....999</p></div>
+<div class="filter_items"><p>HORLICKS </p><p>.....999</p></div>
+<div class="filter_items"><p>BOOST </p><p>.....999</p></div>
+<div class="filter_items"><p>MILK </p><p>.....999</p></div>
+
